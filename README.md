@@ -1,2 +1,1 @@
-# SampleRepoForMasterclass
-Sample repository for masterclass
+# SampleRepoForMasterclass Modified file 
